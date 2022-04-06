@@ -57,7 +57,7 @@ function App() {
   }
 
   return (
-    <main className="main bg-[#F5F5F5] h-[42rem] my-auto max-w-[800px]  rounded-[5px] p-[20px] flex flex-col justify-around items-center">
+    <main className="main bg-[#F5F5F5] h-[38rem] mx-auto my-auto max-w-[800px]  rounded-[5px] p-[20px] flex flex-col justify-around items-center">
       {tenzies && <ReactConfetti/>}
       <h1 className='title text-[40px] m-0'>
         Tenzies
